@@ -2,12 +2,12 @@
 
 ## difference of encription and hashing :
 
-encription = to encode some text and it can be decoded and retransform to the main text .
+*encription = to encode some text and it can be decoded and retransform to the main text .
 
-hashing = to encode a plain text but it can not turn back to plain text.
+*hashing = to encode a plain text but it can not turn back to plain text.
 
 ## hashing library in python :
-import hashlib
+*import hashlib
 
 
 ## creating an instanse of sha256 hash method.
